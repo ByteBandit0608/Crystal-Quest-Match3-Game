@@ -80,6 +80,25 @@ Install the provided APK on an Android device and launch the game.
 - The game ends after **20 moves**.
 
 ---
+## Screenshots
+
+### Game Start
+
+![Game Start](Screenshots/game_start.png)
+
+---
+
+### Gameplay
+
+![Gameplay](Screenshots/game_play.png)
+
+---
+
+### Game Over
+
+![Game Over](Screenshots/game_over.png)
+
+---
 
 ## Future Improvements
 
